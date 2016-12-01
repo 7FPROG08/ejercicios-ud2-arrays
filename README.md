@@ -11,3 +11,8 @@ Ejercicios de programación correspondientes a la UD2, elementos de un programa,
 - [Ejercicio 7 - Tres en raya](./07_tres_en_raya/).
 - [Ejercicio 8 - Trivial](./08_trivial/).
 - [Ejercicio 9 - Sudoku](./09_sudoku/).
+
+Ejercicios extra:
+
+- [Ejercicio 10 - Ordenar un array](./10_ordenar_array/).
+- [Ejercicio 11 - Ajedrez](./11_ajedrez/).
